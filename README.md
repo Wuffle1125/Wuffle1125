@@ -17,12 +17,12 @@ Regards!
 
 ### Front-End Development
 
-✅ Have some experience in UI/UX Design using Adobe XD, Figma, Sketch, Adobe Photoshop.
-✅ Very good experience in developing frontend using React including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area.
-✅ Professional Next.js developer having 4 years of experience with T3 stack, GraphQL, Planet Scale, Hygraph, NextAuth, Stripe integration and so on.
-✅ Rapid growing Vue.js developer having Vue3, Vuex, Vuetify, Nuxt.js and Quasar framework.
-✅ Very good sense of UI/UX, well-known component concept, first mobile design making, SEO, performance and optimization
-✅ React animation expert, some knowledge of three.js, chart implemention using D3.js and several chart libraries...
+✅ Have some experience in UI/UX Design using Adobe XD, Figma, Sketch, Adobe Photoshop. <br>
+✅ Very good experience in developing frontend using React including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area. <br>
+✅ Professional Next.js developer having 4 years of experience with T3 stack, GraphQL, Planet Scale, Hygraph, NextAuth, Stripe integration and so on. <br>
+✅ Rapid growing Vue.js developer having Vue3, Vuex, Vuetify, Nuxt.js and Quasar framework. <br>
+✅ Very good sense of UI/UX, well-known component concept, first mobile design making, SEO, performance and optimization <br>
+✅ React animation expert, some knowledge of three.js, chart implemention using D3.js and several chart libraries... <br>
 
 ### Back-End Development
 
