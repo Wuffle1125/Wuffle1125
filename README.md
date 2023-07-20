@@ -2,25 +2,18 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Full Stack Web Developer** (specializing in **React, Laravel and Docker Skills**)
-I have a bachelor's degree in **Computer Science and Technology**.
-
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2019, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
+Highly skilled full-stack and blockchain engineer with over 6 years of experience in web development. Possesses a strong
+track record of delivering projects on time, with a commitment to quality and transparency. Proven ability to work
+effectively in a variety of settings, including as an officer, remote worker, and freelancer for multiple firms and clients.
+Notable achievements include successfully leading the development of multiple high-traffic web applications, designing
+and implementing secure blockchain solutions, and contributing to the growth of several successful startups. Skilled in a
+wide range of technologies and experienced in agile development methodologies.
+An excellent communicator with a strong work ethic, and the ability to manage time effectively to meet deadlines. Now
+seeking a new opportunity to leverage my skills and expertise, and contribute to the success of a new team or client.
+Regards!
 <br>
 
-## 🛠️ Skills
-
-### Languages
-
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/ruby-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![c#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ My Services
 
 ### Front-End Development
 
