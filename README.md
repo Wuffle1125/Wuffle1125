@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Highly skilled full-stack and blockchain engineer with over 6 years of experience in web development. Possesses a strong
+Highly skilled full-stack and blockchain engineer with over 7 years of experience in web development. Possesses a strong
 track record of delivering projects on time, with a commitment to quality and transparency. Proven ability to work
 effectively in a variety of settings, including as an officer, remote worker, and freelancer for multiple firms and clients.
 Notable achievements include successfully leading the development of multiple high-traffic web applications, designing
