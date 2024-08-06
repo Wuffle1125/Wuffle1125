@@ -43,4 +43,5 @@ Regards!
 
 ✅ Have experience in developing Chrome extension which is AI-generated bulk messaging tool for recruiters on LinkedIn using GPT-4 model <br>
 ✅ Scrapping expert using Puppeteer, Browserless API, Selenium <br>
+✅ GPT, Langchain, HuggingFace, RAG, AI ChatBot Development, TensorFlow <br>
 
